@@ -1,4 +1,7 @@
 
+# Experiment 5: Autoencoder
+# a) Simple Autoencoder
+
 import os
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 
