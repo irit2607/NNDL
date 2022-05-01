@@ -1,4 +1,5 @@
-
+#Experiment 5: Autoencoder
+#c) Convolutional Autoencoder
 import os
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 
