@@ -1,9 +1,7 @@
 
-**Experiment 5: Autoencoder**
- "\n",
- "\n",
- "\n",
-**a) Simple_autoencoder**    
+#Experiment 5: Autoencoder
+ 
+# a) Simple Autoencoder   
 
 import os
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
